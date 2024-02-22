@@ -139,7 +139,7 @@ img {
     }
 }
 @media screen and (max-width: 480px) {
-    .steps .col , .lessons .col {
+    .steps .col, .lessons .col {
         width: 100%;
     }
     .card {
